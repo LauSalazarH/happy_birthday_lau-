@@ -48,4 +48,4 @@ __________#____#_________
 subir a los 1984 mts en un reto personal que vivirás en un recorrido inolvidable.
 
 
-Nota: Para elegir, debes marcar una x en la opción que desees y luego realizar un commit a master.
+⚠️ Para elegir, debes marcar una x en la opción que desees y luego realizar un commit a master ⚠️
