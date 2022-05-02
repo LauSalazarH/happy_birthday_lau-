@@ -42,8 +42,7 @@ __________#____#_________
 
 ```
 
-
-Elije un cariñoso regalito de nuestra parte:
+🥳 🙌 🎂 Elije un cariñoso regalito 🎁 de nuestra parte:
 
 [] Un viaje a cerro Tusa una pirámide natural con una riqueza arqueológica que poco a poco sale a la luz,
 subir a los 1984 mts en un reto personal que vivirás junto a nosotros en un recorrido inolvidable.
