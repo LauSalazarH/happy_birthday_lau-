@@ -45,8 +45,9 @@ __________#____#_________
 🥳 🙌 🎂 Elije un cariñoso regalito 🎁 de nuestra parte:
 
 - [ ] Un viaje a cerro Tusa una pirámide natural con una riqueza arqueológica que poco a poco sale a la luz,
-subir a los 1984 mts en un reto personal que vivirás en un recorrido inolvidable.
-- [ ] Un deliciosos almuerzo en la comodidad de tú casa.
-- [ ] Una ancheta sorpresa (sopresa como desarrollar una iniciativa sin un scope definido).
+subir a los 1984 mts en un reto personal que vivirás en un recorrido inolvidable. 🚶🌲🏼‍♀️
+- [ ] Un deliciosos almuerzo en la comodidad de tú casa. 🍛
+- [ ] Una ancheta sorpresa (sopresa como desarrollar una iniciativa sin un scope definido). 📦
+- [ ] Una sesión de Spa 💆‍♀️
 
 ⚠️ Para elegir, debes marcar una x en la opción que desees y luego realizar un commit con PR a master ⚠️
